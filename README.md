@@ -10,7 +10,7 @@ Here are some of the main technologies I work with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ea2d2f?style=for-the-badge&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 ### 🖥️ **Programming Languages**  
