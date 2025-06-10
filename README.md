@@ -7,43 +7,43 @@ Graduated from the @ Steve Jobs Academy.
 
 Here are some of the main technologies I work with:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-ffffff.svg?style=for-the-badge&logo=typescript&logoColor=000000)
+![Angular](https://img.shields.io/badge/angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=000000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff.svg?style=for-the-badge&logo=bootstrap&logoColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-ffffff.svg?style=for-the-badge&logo=css3)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=000000)
 
 ### 🖥️ **Programming Languages**  
-![Java](https://img.shields.io/badge/-Java-ea2d2f?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=java&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000)
+![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=000000)
+![Dart](https://img.shields.io/badge/dart-ffffff.svg?style=for-the-badge&logo=dart&logoColor=000000)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
 
 ### 🎨 **Frontend Development**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=42B883)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ffffff.svg?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-ffffff.svg?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=sass&logoColor=000000)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000)
+![Angular](https://img.shields.io/badge/angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=000000)
+![Vue](https://img.shields.io/badge/Vue.js-ffffff?style=for-the-badge&logo=vue.js&logoColor=000000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff.svg?style=for-the-badge&logo=bootstrap&logoColor=000000)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=000000)
 
 ### 📱 **Mobile Development**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=000000)
+![React Native](https://img.shields.io/badge/React_Native-ffffff?style=for-the-badge&logo=react&logoColor=000000)
 
 ### 💾 **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=000000)
 
 ---
 
 ### 📚 **Currently Learning**  
-![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-ffffff?style=for-the-badge&logo=reactivex&logoColor=000000)
 
 ---
 
