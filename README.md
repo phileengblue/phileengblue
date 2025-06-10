@@ -47,5 +47,4 @@ Here are some of the main technologies I work with:
 
 ---
 
-![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phileengblue&theme=github_dark)
-
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phileengblue&theme=graywhite)
