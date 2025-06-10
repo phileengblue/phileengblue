@@ -1,7 +1,7 @@
 ### Hi there! I'm Filippo 
 
-I'm a Junior Web and Mobile Developer with a strong passion for Front-End development. 
-Graduated from the @ Steve Jobs Academy.
+I'm a Junior Web and Mobile Developer with a strong passion for Front-End development.  
+Graduated from the [@SteveJobsAcademy](https://github.com/SteveJobsAcademy).
 
 ---
 
